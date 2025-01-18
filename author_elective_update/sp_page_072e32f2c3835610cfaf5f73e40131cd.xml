@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>listpractice1</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 06:41:38</sys_created_on>
+        <sys_id>072e32f2c3835610cfaf5f73e40131cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listpractice1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_page_072e32f2c3835610cfaf5f73e40131cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 06:41:38</sys_updated_on>
+        <title>ListPractice</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=072e32f2c3835610cfaf5f73e40131cd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>4634a822db9186d02f082a591396193a</instance_id>
+        <instance_name>dev254204</instance_name>
+        <name>sp_page_072e32f2c3835610cfaf5f73e40131cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>listpractice1</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-16 06:41:38</sys_created_on><sys_id>072e32f2c3835610cfaf5f73e40131cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>listpractice1</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>sp_page_072e32f2c3835610cfaf5f73e40131cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-16 06:41:38</sys_updated_on><title>ListPractice</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=072e32f2c3835610cfaf5f73e40131cd"/></record_update>]]></payload>
+        <payload_hash>1791077380</payload_hash>
+        <record_name>listpractice1</record_name>
+        <reverted_from/>
+        <source>43173816c3c39210cfaf5f73e4013163</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 06:41:38</sys_created_on>
+        <sys_id>433e32f2c3835610cfaf5f73e4013156</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1946dd897010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 06:41:38</sys_updated_on>
+        <type>Page</type>
+        <update_guid>473e32f2a2835610ff306a54244ae355</update_guid>
+        <update_guid_history>473e32f2a2835610ff306a54244ae355:1791077380</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="listpractice1">be5eb2f2c3835610cfaf5f73e40131c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-16 06:42:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>25752e67c0214c039c1485591bc67ff9</sys_id>
+        <sys_metadata>072e32f2c3835610cfaf5f73e40131cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>listpractice1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>sp_page_072e32f2c3835610cfaf5f73e40131cd</sys_update_name>
+        <sys_update_version display_value="sp_page_072e32f2c3835610cfaf5f73e40131cd">433e32f2c3835610cfaf5f73e4013156</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-16 06:42:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
